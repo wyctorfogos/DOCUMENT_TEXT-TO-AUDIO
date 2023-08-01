@@ -1,2 +1,2 @@
 # DOCUMENT_TEXT-TO-AUDIO
-Convert documents content tecxt to audio
+Convert documents content text to audio
